@@ -1,0 +1,15 @@
+D:\CDAC Project\IacsdWallah_Cdac_Project\BackEnd\UserRegistration\bin\Debug\net8.0\UserRegistration.exe
+D:\CDAC Project\IacsdWallah_Cdac_Project\BackEnd\UserRegistration\bin\Debug\net8.0\UserRegistration.deps.json
+D:\CDAC Project\IacsdWallah_Cdac_Project\BackEnd\UserRegistration\bin\Debug\net8.0\UserRegistration.runtimeconfig.json
+D:\CDAC Project\IacsdWallah_Cdac_Project\BackEnd\UserRegistration\bin\Debug\net8.0\UserRegistration.dll
+D:\CDAC Project\IacsdWallah_Cdac_Project\BackEnd\UserRegistration\bin\Debug\net8.0\UserRegistration.pdb
+D:\CDAC Project\IacsdWallah_Cdac_Project\BackEnd\UserRegistration\obj\Debug\net8.0\UserRegistration.GeneratedMSBuildEditorConfig.editorconfig
+D:\CDAC Project\IacsdWallah_Cdac_Project\BackEnd\UserRegistration\obj\Debug\net8.0\UserRegistration.AssemblyInfoInputs.cache
+D:\CDAC Project\IacsdWallah_Cdac_Project\BackEnd\UserRegistration\obj\Debug\net8.0\UserRegistration.AssemblyInfo.cs
+D:\CDAC Project\IacsdWallah_Cdac_Project\BackEnd\UserRegistration\obj\Debug\net8.0\UserRegistration.csproj.CoreCompileInputs.cache
+D:\CDAC Project\IacsdWallah_Cdac_Project\BackEnd\UserRegistration\obj\Debug\net8.0\UserRegistration.sourcelink.json
+D:\CDAC Project\IacsdWallah_Cdac_Project\BackEnd\UserRegistration\obj\Debug\net8.0\UserRegistration.dll
+D:\CDAC Project\IacsdWallah_Cdac_Project\BackEnd\UserRegistration\obj\Debug\net8.0\refint\UserRegistration.dll
+D:\CDAC Project\IacsdWallah_Cdac_Project\BackEnd\UserRegistration\obj\Debug\net8.0\UserRegistration.pdb
+D:\CDAC Project\IacsdWallah_Cdac_Project\BackEnd\UserRegistration\obj\Debug\net8.0\UserRegistration.genruntimeconfig.cache
+D:\CDAC Project\IacsdWallah_Cdac_Project\BackEnd\UserRegistration\obj\Debug\net8.0\ref\UserRegistration.dll
